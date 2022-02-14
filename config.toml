@@ -2,7 +2,7 @@
 baseurl = "https://example.org/"
 
 # タイトル
-title = "橋本 菜々子のポートフォリオ (仮名)"
+title = "-Hahimoto Nanako- Art Works"
 
 theme = "hugo-creative-portfolio-theme"
 languageCode = "ja"
@@ -25,8 +25,8 @@ googleAnalytics = ""
 
   # サイドバーに書いてある自己紹介
   sidebarAbout = [
-    "私はアサビに出没した神絵師です (1段落目)",
-    "狛江市出身、21歳です (2段落目)"
+    "阿佐ヶ谷美術専門学校 在学",
+    "キャラクターデザインコース 1年"
   ]
 
   # Contact page
@@ -73,10 +73,10 @@ googleAnalytics = ""
 
   [params.social]
   # Email (ちゃんと連絡のつくやつ)
-  email         = "email@example.com"
+  email         = "nanako.hsmt20l@gmail.com"
 
   # Twitter
-  twitter       = "https://twitter.com/amasu_kino"
+  #twitter       = "https://twitter.com/amasu_kino"
 
   # インスタ
-  instagram     = "full profile url in instagram"
+  instagram     = "https://instagram.com/amasu_kino/"
