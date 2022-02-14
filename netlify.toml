@@ -1,6 +1,6 @@
 [build]
 publish = "public"
-command = "hugo --theme=hugo-creative-portfolio-theme --gc --minify"
+command = "hugo --theme=hugo-creative-portfolio-theme --gc --minify -D"
 
 [context.production.environment]
 HUGO_VERSION = "0.92.2"
@@ -8,20 +8,20 @@ HUGO_ENV = "production"
 HUGO_ENABLEGITINFO = "true"
 
 [context.split1]
-command = "hugo --theme=hugo-creative-portfolio-theme --gc --minify --enableGitInfo"
+command = "hugo --theme=hugo-creative-portfolio-theme --gc --minify --enableGitInfo -D"
 
 [context.split1.environment]
 HUGO_VERSION = "0.92.2"
 HUGO_ENV = "production"
 
 [context.deploy-preview]
-command = "hugo --theme=hugo-creative-portfolio-theme --gc --minify --buildFuture -b $DEPLOY_PRIME_URL"
+command = "hugo --theme=hugo-creative-portfolio-theme --gc --minify --buildFuture -b $DEPLOY_PRIME_URL -D"
 
 [context.deploy-preview.environment]
 HUGO_VERSION = "0.92.2"
 
 [context.branch-deploy]
-command = "hugo --theme=hugo-creative-portfolio-theme --gc --minify -b $DEPLOY_PRIME_URL"
+command = "hugo --theme=hugo-creative-portfolio-theme --gc --minify -b $DEPLOY_PRIME_URL -D"
 
 [context.branch-deploy.environment]
 HUGO_VERSION = "0.92.2"
