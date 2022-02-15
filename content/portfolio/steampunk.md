@@ -2,7 +2,7 @@
 title = "ターゲットは黒の列車" # タイトル
 date = 2022-02-14T16:03:10+09:00 # 日付
 draft = false # ドラフトかどうか
-image = "img/portfolio/steampunk.JPG" # 画像の場所
+image = "img/portfolio/steampunkt.JPG" # 画像の場所
 showonlyimage = false
 weight = 7 # 表示順、小さい記事が上に来る 
 +++

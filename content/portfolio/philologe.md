@@ -2,7 +2,7 @@
 title = "PHILOLOGE(comics)" # タイトル
 date = 2022-02-14T16:03:10+09:00 # 日付
 draft = false # ドラフトかどうか
-image = "img/portfolio/16-0.jpg" # 画像の場所
+image = "img/portfolio/16-0t.jpg" # 画像の場所
 showonlyimage = false
 weight = 5 # 表示順、小さい記事が上に来る 
 +++

@@ -2,7 +2,7 @@
 title = "『Huther』立ち絵" # タイトル
 date = 2022-02-14T16:03:10+09:00 # 日付
 draft = false # ドラフトかどうか
-image = "img/portfolio/2021_10_12.jpg" # 画像の場所
+image = "img/portfolio/2021_10_12t.jpg" # 画像の場所
 showonlyimage = false
 weight = 15 # 表示順、小さい記事が上に来る 
 +++

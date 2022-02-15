@@ -2,7 +2,7 @@
 title = "ハックルベリーの大冒険" # タイトル
 date = 2022-02-14T16:03:10+09:00 # 日付
 draft = false # ドラフトかどうか
-image = "img/portfolio/2021_11_03.jpg" # 画像の場所
+image = "img/portfolio/2021_11_03t.jpg" # 画像の場所
 showonlyimage = false
 weight = 16 # 表示順、小さい記事が上に来る 
 +++
