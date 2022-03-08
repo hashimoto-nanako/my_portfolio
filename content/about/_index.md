@@ -27,7 +27,7 @@ title = "About me"
 - アンティーク
 - 建築
 
-#### 受賞履歴
+#### Awards
 
 - kakuba 第2回 学生向けイラストコンテスト『冬』 優秀賞「Orbital2賞」
 
